@@ -1,4 +1,4 @@
-# Hotspot Analysis on Apache Sedona
+# Geospatial Hotspot Analysis on Apache Sedona
 
 
 In this project, we do spatial hotspot analysis. 
